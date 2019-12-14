@@ -1,0 +1,102 @@
+body {
+	background-color:#272343;
+	color:#51eaea;
+	font-family:'Raleway', sans-serif;;
+}
+
+h1 {
+	color:#272343
+}
+
+p{
+	font-size: 20px;
+	color:#272343;
+	font-family: 'Raleway', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color:#272343;
+	font-family: 'Raleway';
+
+
+}
+
+.card-white {
+
+    background-color: white;
+    padding: 25px;
+    margin: 25px;
+    border-radius: -1px;
+    box-shadow: -1px 3px 9px 0px rgba(0,0,0.2);
+    text-align: center;
+}
+ 
+ .img-circle{
+ 	width: 200px;
+ 	border-radius: 50%;
+ }
+
+ .container{
+width: 850px;
+margin: 0 auto;
+ }
+
+.list-inline{
+padding-left: 0;
+list-style: none;
+
+}
+
+.list-inline li{
+	display: inline;
+	font-sitze: 50px;
+
+}
+
+.button {
+   background-color: #2bcaf9a6;
+    padding: 15px 20px;
+    border: 29px;
+    margin: 8px;
+    border-radius: -6px;
+    box-shadow: 10px 9px 35px rgba(0,0,0.2);
+    text-align: center;
+}
+}
+
+.img-circle{
+	width: 200px;
+    border-radius: 50%;
+}
+
+
+
+@media (max-width: 850px) {
+.container {
+width: 650px;
+
+}
+}
+
+@media (max-width: 650px){
+.container{
+	width: 200px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
